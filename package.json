@@ -1,0 +1,18 @@
+{
+  "name": "ejemplopatron",
+  "version": "1.0.0",
+  "description": "ejemploPatron",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "patron",
+    "pageObject"
+  ],
+  "author": "agus",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^13.15.0"
+  }
+}
